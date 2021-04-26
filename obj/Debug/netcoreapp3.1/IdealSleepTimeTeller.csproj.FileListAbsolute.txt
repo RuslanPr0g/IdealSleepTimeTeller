@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.exe
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.deps.json
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.runtimeconfig.json
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.runtimeconfig.dev.json
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.dll
+C:\Users\theru\Desktop\IdealSleepTimeTeller\bin\Debug\netcoreapp3.1\IdealSleepTimeTeller.pdb
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.AssemblyInfo.cs
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.dll
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.pdb
+C:\Users\theru\Desktop\IdealSleepTimeTeller\obj\Debug\netcoreapp3.1\IdealSleepTimeTeller.genruntimeconfig.cache
